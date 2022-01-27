@@ -1,7 +1,7 @@
 {
   "name": "ffxiv-ping-monitor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Network condition monitoring tool for FFXIV(R) Datacenters. FFXIV(R) is SQUARE ENIX CO., LTD 's registrated trademark",
   "main": "index.js",
   "scripts": {
     "start": "electron ./",
