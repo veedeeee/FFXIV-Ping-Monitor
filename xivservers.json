@@ -1,11 +1,11 @@
 [
-  { "name": "mana", "ip_addr": "124.150.157.156",
-  { "name": "gaia", "ip_addr": "124.150.157.157",
-  { "name": "elemental", "ip_addr": "124.150.157.158",
-  { "name": "materia", "ip_addr": "153.254.80.103",
-  { "name": "chaos", "ip_addr": "195.82.50.9",
-  { "name": "light", "ip_addr": "195.82.50.10",
-  { "name": "aether", "ip_addr": "204.2.229.9",
-  { "name": "primal", "ip_addr": "204.2.229.10",
-  { "name": "crystal", "ip_addr": "204.2.229.11"
+  { "name": "Mana", "ip_addr": "124.150.157.156" },
+  { "name": "Gaia", "ip_addr": "124.150.157.157" },
+  { "name": "Elemental", "ip_addr": "124.150.157.158" },
+  { "name": "Materia", "ip_addr": "153.254.80.103" },
+  { "name": "Chaos", "ip_addr": "195.82.50.9" },
+  { "name": "Light", "ip_addr": "195.82.50.10" },
+  { "name": "Aether", "ip_addr": "204.2.229.9" },
+  { "name": "Primal", "ip_addr": "204.2.229.10" },
+  { "name": "Crystal", "ip_addr": "204.2.229.11" }
 ]
