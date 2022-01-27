@@ -1,0 +1,30 @@
+{
+  "name": "ffxiv-ping-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ./",
+    "build": "electron-builder -mw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veedeeee/FFXIV-Ping-Monitor.git"
+  },
+  "author": "Vee Dee (https://twitter.com/v__d__)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veedeeee/FFXIV-Ping-Monitor/issues"
+  },
+  "homepage": "https://github.com/veedeeee/FFXIV-Ping-Monitor#readme",
+  "devDependencies": {
+    "electron": "^16.0.7",
+    "electron-builder": "^22.14.5",
+    "electron-is-dev": "^2.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "electron-store": "^8.0.1",
+    "ping": "^0.4.1"
+  }
+}
